@@ -168,7 +168,7 @@ student-data-management-system/
 ## Author
 
 **M. Khizar Akram**  
-BSE-6  
+BSE-1(B)  
 Enrollment: 02-131232-064
 
 ## License
