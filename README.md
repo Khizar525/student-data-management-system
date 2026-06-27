@@ -163,7 +163,7 @@ student-data-management-system/
 **Course**: Computer Programming Lab  
 **Semester**: 1  
 **Institution**: Bahria University Karachi  
-**Academic Year**: Spring 2026
+**Academic Year**: Fall-2023
 
 ## Author
 
