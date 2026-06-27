@@ -1,0 +1,26 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Visual Studio cache/options
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.cache
+*.log
+
+# User-specific files
+*.txt
+Admin.txt
+Student.txt
